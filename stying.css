@@ -1,0 +1,37 @@
+.quote-section 
+{
+   text-align: center;
+}
+.quote-section h1
+{
+    font-size: 90px;
+    font-weight: bolder; 
+    font-style: oblique;
+}
+.quote-section .paragraph
+{
+   font-weight: bold;
+   font-size:x-large;
+}
+.quote-section #author
+{
+   font-size:xx-large;
+}
+.quote-section #quote 
+{
+    margin-top: 30px;  
+    font-size:xx-large;
+}
+.button-properties
+{
+    width: 200px;
+    height: 80px;
+    color: white;
+    background-color: blue;
+    margin-top: 8px;
+    transition: all,.2s; 
+}
+button:hover 
+{
+    background-color: green;
+}
